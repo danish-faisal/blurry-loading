@@ -1,5 +1,5 @@
 Mini project using HTML, CSS & JavaScript
 
-Simple Example of Bluury Loading Implementation
+Simple Example of Blurry Loading Implementation
 
 Live Demo: https://danish-faisal.github.io/blurry-loading/
